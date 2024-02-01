@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:my_notes/data/dummy_data.dart';
 
 import '../data/dummy_dart.dart';
 
